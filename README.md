@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://ko-fi.com/K3K1791RX">
-    <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" />
-  </a>
-</p>
+Hi there! Welcome to my GitHub profile. I am a PhD student in the Unit of Structural Engineering and Design in the Department of the Built Environment at Eindhoven University of Technology (TU/e). My research focuses on additive manufacturing of functional materials on demand. Here on my GitHub profile, and through our 3DCP TU/e group organization, I aim to share as much of my work as possible.
